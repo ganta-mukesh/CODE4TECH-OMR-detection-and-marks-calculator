@@ -1,7 +1,5 @@
 # OMR Sheet Evaluation System
 
-![](https://visitor-badge.laobi.icu/badge?page_id=yashchinchole/OMR-Sheet-Evaluation-System)
-
 ## Description
 
 OMR (Optical Mark Recognition) sheets are widely used in educational and survey sectors for data collection. Traditionally, the process of evaluating OMR sheets manually is tedious, time-consuming, and prone to human errors. This project aims to automate the evaluation process using image processing techniques, providing a cost-effective solution compared to expensive OMR scanning machines.
