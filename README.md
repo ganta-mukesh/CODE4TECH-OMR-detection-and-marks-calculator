@@ -8,7 +8,7 @@ The algorithm evaluates the responses, displays grades and percentages on the in
 
 ## Live Website
 
-Check out the live version of the project [here](https://omr-sheet-evaluation-system.onrender.com/).
+Check out the live version of the project [here](https://omrdetectionbygantamukesh-code4edtech.onrender.com/).
 
 ### Screenshot of Website
 
@@ -18,7 +18,7 @@ Here’s a glimpse of the website:
 
 ## Repository Link
 
-Explore the codebase on GitHub: [OMR Sheet Evaluation System](https://github.com/yashchinchole/OMR-Sheet-Evaluation-System)
+Explore the codebase on GitHub: [OMR Sheet Evaluation System](https://github.com/ganta-mukesh/CODE4TECH-OMR-detection-and-marks-calculator)
 
 ## Features and Key Points
 
