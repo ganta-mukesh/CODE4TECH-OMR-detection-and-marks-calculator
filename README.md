@@ -10,10 +10,10 @@ The algorithm evaluates the responses, displays grades and percentages on the in
 
 Check out the live version of the project [here](https://omrdetectionbygantamukesh-code4edtech.onrender.com/).
 
-**Preview Video:**
-<iframe src="https://drive.google.com/file/d/1tqJ-Xgk5RGNmkwuRUnqJfuo5cxaKiqWU/preview"
-        width="640" height="360" allow="autoplay; encrypted-media" frameborder="0" allowfullscreen>
-</iframe>
+## Live Website video.
+
+Check out the live version video of the project [here](https://drive.google.com/file/d/1tqJ-Xgk5RGNmkwuRUnqJfuo5cxaKiqWU/view?usp=sharing).
+
 
 ### Screenshot of Website
 
